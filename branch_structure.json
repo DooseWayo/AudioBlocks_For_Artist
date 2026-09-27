@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "feat/notification-bell-dropdown",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "feat/notification-bell-dropdown": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "feat/notification-bell-dropdown",
+    "origin"
+  ]
+}
